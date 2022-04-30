@@ -1,4 +1,6 @@
 Rusty
-BLue
+Blue
 Scout
 Rocket
+Monty
+Moca
